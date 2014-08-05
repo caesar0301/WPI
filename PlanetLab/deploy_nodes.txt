@@ -1,0 +1,48 @@
+##Europe
+planetlab1.inf.ethz.ch,Switzerland,0.266867160797
+planetlab1.cesnet.cz,Czech Republic,0.272506952286
+#planetlab1.informatik.uni-wuerzburg.de,Germany,0.277838945389
+#planetlab1.um.es,Spain,0.302839994431,#debugging
+utet.ii.uam.es,Spain,0.27373290062
+pl1.bell-labs.fr,France,0.341259002686
+plab-1.diegm.uniud.it,Italy,0.286198139191
+planetlab1.pjwstk.edu.pl,Poland,0.294988155365
+plab1.cs.msu.ru,Russian Federation,0.374278068542
+planetlab-1.ida.liu.se,Sweden,0.293241977692
+planetlab1.xeno.cl.cam.ac.uk,United Kingdom,0.267754077911
+
+##Asia
+planetlab-1.sjtu.edu.cn,China,0.00182414054871
+planetlab1.ie.cuhk.edu.hk,Hong Kong,0.0677330493927
+planetlab1.otemachi.wide.ad.jp,Japan,0.215018987656
+#planet1.jaist.ac.jp,Japan,0.207894086838
+#pl1snu.koren.kr,South Korea,0.256503105164
+#pl2snu.koren.kr,South Korea,0.256899833679
+planetlab1.comp.nus.edu.sg,Singapore,0.231764793396
+planetlab1.csie.nuk.edu.tw,Taiwan,0.210973978043
+
+##Australia
+planetlab1.research.nicta.com.au,Australia,0.273284912109
+#planetlab2.research.nicta.com.au,Australia,0.273041963577,#debugging
+pl1.eng.monash.edu.au,Australia,0.27356505394
+pl2.eng.monash.edu.au,Australia,0.27356505394
+#planetlab-n1.wand.net.nz,New Zealand,0.30199098587
+#planetlab1.aut.ac.nz,New Zealand,0.259136915207
+planetlab1.cs.otago.ac.nz,New Zealand,0.32039809227
+planetlab1.ecs.vuw.ac.nz,New Zealand,0.269419908524
+
+##North America
+pl1.csl.utoronto.ca,Canada,0.252836942673
+pl1.rcc.uottawa.ca,Canada,0.303395986557
+#planetlab-1.cmcl.cs.cmu.edu,United States,Education site,0.250410079956
+planetlab-01.cs.princeton.edu,United States,Education site,0.242366075516
+planetlab1.cs.ucla.edu,United States,Education site,0.175177097321
+planetlab1.arizona-gigapop.net,United States,Internet administrative,site,0.201174974442
+
+##South America
+planetlab1.c3sl.ufpr.br,Brazil,0.377966165543
+#planet-lab2.ufabc.edu.br,Brazil,0.371998071671
+planetlab1.pop-pa.rnp.br,Brazil,0.375240802765
+#planet-lab2.itba.edu.ar,Argentina,0.390813112259
+planet-lab1.uba.ar,Argentina,0.384725093842
+#planet-lab1.itba.edu.ar,Argentina,0.395385026932

@@ -1,0 +1,846 @@
+14251,planet-lab4.uba.ar,Argentina,0.397872924805
+13266,planet-lab2.uba.ar,Argentina,0.398191928864
+13158,planet-lab2.itba.edu.ar,Argentina,0.404788970947
+14250,planet-lab3.uba.ar,Argentina,0.395218133926
+13157,planet-lab1.uba.ar,Argentina,0.396365880966
+13134,planet-lab1.itba.edu.ar,Argentina,0.405508041382
+14058,planetlab2.research.nicta.com.au,Australia,0.336823940277
+8262,plnode02.cs.mu.oz.au,Australia,-1
+14057,planetlab1.research.nicta.com.au,Australia,0.337588071823
+13533,pl1.eng.monash.edu.au,Australia,0.349318027496
+13536,pl2.eng.monash.edu.au,Australia,0.358438968658
+8261,plnode01.cs.mu.oz.au,Australia,-1
+13406,onelab3.info.ucl.ac.be,Belgium,0.346765995026
+14265,planck249ple.test.iminds.be,Belgium,-1
+14266,planck250ple.test.iminds.be,Belgium,-1
+13341,planck227ple.test.ibbt.be,Belgium,0.346837997437
+13631,orval.infonet.fundp.ac.be,Belgium,0.346959114075
+13630,chimay.infonet.fundp.ac.be,Belgium,0.346841812134
+13555,planetlab1.montefiore.ulg.ac.be,Belgium,-1
+13556,planetlab2.montefiore.ulg.ac.be,Belgium,0.346658945084
+13632,rochefort.infonet.fundp.ac.be,Belgium,0.346113920212
+13085,onelab1.info.ucl.ac.be,Belgium,0.346135139465
+13086,onelab2.info.ucl.ac.be,Belgium,0.346256971359
+14193,planetlab1.extern.kuleuven.be,Belgium,0.344331979752
+14194,planetlab2.extern.kuleuven.be,Belgium,0.344129800797
+8316,planetlab2.pop-ce.rnp.br,Brazil,-1
+8315,planetlab1.pop-ce.rnp.br,Brazil,-1
+10927,planet-lab2.ufabc.edu.br,Brazil,0.409921884537
+10022,planetlab1.pop-rj.rnp.br,Brazil,-1
+13640,planetlab1.pop-pa.rnp.br,Brazil,0.362041950226
+201,planetlab1.pop-mg.rnp.br,Brazil,0.423978090286
+10023,planetlab2.pop-rj.rnp.br,Brazil,-1
+11068,plab1.larc.usp.br,Brazil,-1
+13168,planetlab2.c3sl.ufpr.br,Brazil,0.415549993515
+202,planetlab2.pop-mg.rnp.br,Brazil,0.41799902916
+11069,plab2.larc.usp.br,Brazil,-1
+8321,planetlab2.pop-rs.rnp.br,Brazil,0.430248022079
+13167,planetlab1.c3sl.ufpr.br,Brazil,0.415261030197
+8320,planetlab1.pop-rs.rnp.br,Brazil,0.429078102112
+13634,planetlab2.pop-pa.rnp.br,Brazil,0.351022005081
+10704,planetlab-2.rml.ryerson.ca,Canada,-1
+10995,pl2.bit.uoit.ca,Canada,0.259588003159
+10703,planetlab-1.rml.ryerson.ca,Canada,-1
+3331,planetlab2.cs.unb.ca,Canada,-1
+3332,planetlab1.cs.unb.ca,Canada,-1
+10994,pl1.bit.uoit.ca,Canada,0.26139497757
+10470,planetlab-2.usask.ca,Canada,-1
+13166,plonk.cs.uwaterloo.ca,Canada,0.256327867508
+10892,pl3.planetlab.uvic.ca,Canada,-1
+13639,planetlab-1.elisa.cpsc.ucalgary.ca,Canada,0.253811120987
+10469,planetlab-1.usask.ca,Canada,-1
+10278,pl1.csl.utoronto.ca,Canada,0.247675895691
+13334,pl1.rcc.uottawa.ca,Canada,0.285888910294
+14,planetlab1.cs.ubc.ca,Canada,0.217352867126
+11003,cs-planetlab3.cs.surrey.sfu.ca,Canada,0.219363927841
+13165,plink.cs.uwaterloo.ca,Canada,0.256660938263
+13946,saturn.planetlab.carleton.ca,Canada,-1
+13661,planetlab-2.elisa.cpsc.ucalgary.ca,Canada,0.244653940201
+15,planetlab2.cs.ubc.ca,Canada,0.21960401535
+10890,pl1.planetlab.uvic.ca,Canada,-1
+13961,jupiter.planetlab.carleton.ca,Canada,-1
+10277,pl2.csl.utoronto.ca,Canada,-1
+13335,pl2.rcc.uottawa.ca,Canada,0.278737068176
+14231,planetlab2.urv.cat,Catalan,0.386719942093
+13843,planetlab1.urv.cat,Catalan,0.392871141434
+13887,planetlab2.csg.uzh.ch,Switzerland,0.370908021927
+10695,planetlab1.inf.ethz.ch,Switzerland,0.376581907272
+13860,planetlab2.unineuchatel.ch,Switzerland,-1
+13972,planetlab02.cnds.unibe.ch,Switzerland,-1
+13973,planetlab04.cnds.unibe.ch,Switzerland,-1
+13213,planetlab-1.cs.unibas.ch,Switzerland,-1
+10737,planetlab4.inf.ethz.ch,Switzerland,0.370484828949
+10697,planetlab2.inf.ethz.ch,Switzerland,-1
+13881,planetlab1.csg.uzh.ch,Switzerland,0.370333909988
+13097,planetlab02.ethz.ch,Switzerland,-1
+10736,planetlab3.inf.ethz.ch,Switzerland,0.370438098907
+13859,planetlab1.unineuchatel.ch,Switzerland,0.368459939957
+13370,planetlab01.ethz.ch,Switzerland,-1
+10742,planetlab2.iin-bit.com.cn,China,-1
+10629,planetlab1.iin-bit.com.cn,China,-1
+13757,planetlab-2.sysu.edu.cn,China,0.0327980518341
+13791,planetlab2.buaa.edu.cn,China,-1
+13965,planetlab1.hust.edu.cn,China,-1
+14356,planetlab-1.scie.uestc.edu.cn,China,-1
+13583,pl2.pku.edu.cn,China,0.0288860797882
+14354,planetlab-2.scie.uestc.edu.cn,China,-1
+13458,planetlab-1.sjtu.edu.cn,China,0.0138871669769
+14050,pln.zju.edu.cn,China,0.00815677642822
+13789,planetlab1.buaa.edu.cn,China,-1
+14046,planetlab2.cqupt.edu.cn,China,0.0356159210205
+14129,planetlab-js1.cert.org.cn,China,0.0510940551758
+14079,pl2.zju.edu.cn,China,0.00747394561768
+13928,planetlab2.ustc.edu.cn,China,0.0113201141357
+13966,planetlab2.hust.edu.cn,China,0.0194730758667
+14130,planetlab-js2.cert.org.cn,China,0.0532839298248
+13498,pl1.pku.edu.cn,China,-1
+13550,planetlab-1.pdl.nudt.edu.cn,China,-1
+13756,planetlab-1.sysu.edu.cn,China,0.0338771343231
+13549,planetlab-2.pdl.nudt.edu.cn,China,-1
+14180,plnodeb.plaust.edu.cn,China,-1
+13959,planetlab3.bupt.edu.cn,China,0.0294690132141
+13734,planet1.dsp.ac.cn,China,0.0288240909576
+14047,planetlab1.cqupt.edu.cn,China,0.03542304039
+13735,planet2.dsp.ac.cn,China,0.0311100482941
+13666,pl2.6test.edu.cn,China,0.0285129547119
+13459,planetlab-2.sjtu.edu.cn,China,0.00231003761292
+13664,pl1.6test.edu.cn,China,0.0284371376038
+13411,plnodea.plaust.edu.cn,China,-1
+3232,pli1-br-2.hpl.hp.com,United States Commercial website.,-1
+10767,planetlabnode-1.docomolabs-usa.com,United States Commercial website.,-1
+10768,planetlabnode-2.docomolabs-usa.com,United States Commercial website.,-1
+11499,pl-node-1.csl.sri.com,United States Commercial website.,0.201463937759
+10235,plab1.nec-labs.com,United States Commercial website.,-1
+3238,pli2-br-1.hpl.hp.com,United States Commercial website.,-1
+3233,pli1-br-3.hpl.hp.com,United States Commercial website.,-1
+3234,pli1-br-1.hpl.hp.com,United States Commercial website.,-1
+3237,pli2-br-2.hpl.hp.com,United States Commercial website.,-1
+3413,pli1-tlnx.hpl.hp.com,United States Commercial website.,-1
+14040,75-130-96-12.static.oxfr.ma.charter.com,United States Commercial website.,-1
+14511,pli1-pa-1.hpl.hp.com,United States Commercial website.,0.214926958084
+14513,pli1-pa-3.hpl.hp.com,United States Commercial website.,0.198036193848
+14512,pli1-pa-2.hpl.hp.com,United States Commercial website.,0.20138001442
+13567,plab1.tidprojects.com,United States Commercial website.,-1
+13740,planetlab1.esprit-tn.com,United States Commercial website.,-1
+13741,planetlab2.esprit-tn.com,United States Commercial website.,-1
+13628,plnode-04.gpolab.bbn.com,United States Commercial website.,0.262689828873
+14149,pllx1.parc.xerox.com,United States Commercial website.,0.197518110275
+14043,75-130-96-13.static.oxfr.ma.charter.com,United States Commercial website.,0.264134168625
+11498,pl-node-0.csl.sri.com,United States Commercial website.,0.201189994812
+8290,pli1-pa-5.hpl.hp.com,United States Commercial website.,0.198207139969
+3412,pli1-pa-4.hpl.hp.com,United States Commercial website.,0.19721198082
+11511,pli1-pa-6.hpl.hp.com,United States Commercial website.,0.197439908981
+14389,lab1.asmdba.com,United States Commercial website.,-1
+13627,plnode-03.gpolab.bbn.com,United States Commercial website.,0.263725042343
+14152,pllx2.parc.xerox.com,United States Commercial website.,0.197395086288
+14179,planetlab01.alucloud.com,United States Commercial website.,0.246942996979
+14178,planetlab02.alucloud.com,United States Commercial website.,0.246710062027
+10234,plab2.nec-labs.com,United States Commercial website.,-1
+14036,planetlab-3.cs.ucy.ac.cy,Cyprus,-1
+14131,planetlab-4.cs.ucy.ac.cy,Cyprus,-1
+14137,planetlab-1.cs.ucy.ac.cy,Cyprus,-1
+14455,planetlab3.cesnet.cz,Czech Republic,0.364900112152
+14456,ple1.zcu.cz,Czech Republic,0.366509914398
+13454,ple2.cesnet.cz,Czech Republic,0.36406493187
+13453,ple1.cesnet.cz,Czech Republic,0.364371061325
+10527,planetlab2.cesnet.cz,Czech Republic,0.365020990372
+10524,planetlab1.cesnet.cz,Czech Republic,0.364977121353
+10692,planetlab1.fit.vutbr.cz,Czech Republic,0.368267059326
+13656,planetlab01.tkn.tu-berlin.de,Germany,0.373201131821
+14454,planetlab2.informatik.uni-erlangen.de,Germany,0.365134954453
+13905,planetlab1.exp-math.uni-essen.de,Germany,-1
+13968,planet1.l3s.uni-hannover.de,Germany,-1
+14509,pl1.prakinf.tu-ilmenau.de,Germany,0.365796804428
+14510,pl2.prakinf.tu-ilmenau.de,Germany,0.365276098251
+14518,planetlab1.net.in.tum.de,Germany,0.368708133698
+14526,planetlab3.net.in.tum.de,Germany,0.368226051331
+13781,planetvs2.informatik.uni-stuttgart.de,Germany,0.363148927689
+13093,planetlab-2.fhi-fokus.de,Germany,-1
+13788,dannan.disy.inf.uni-konstanz.de,Germany,0.366466999054
+14062,host2.planetlab.informatik.tu-darmstadt.de,Germany,0.359992027283
+13935,planetlab1.informatik.uni-goettingen.de,Germany,0.375118970871
+13969,planet2.l3s.uni-hannover.de,Germany,-1
+13808,dschinni.planetlab.extranet.uni-passau.de,Germany,0.369668960571
+14061,host1.planetlab.informatik.tu-darmstadt.de,Germany,0.360136032104
+13904,iraplab1.iralab.uni-karlsruhe.de,Germany,0.36262512207
+13920,iraplab2.iralab.uni-karlsruhe.de,Germany,0.362044095993
+13941,planetlab2.informatik.uni-goettingen.de,Germany,0.375957012177
+14150,planet01.hhi.fraunhofer.de,Germany,-1
+13657,planetlab02.tkn.tu-berlin.de,Germany,0.373229980469
+13809,planet1.inf.tu-dresden.de,Germany,-1
+14092,planetlab1.eecs.jacobs-university.de,Germany,0.390764951706
+14096,planetlab2.eecs.jacobs-university.de,Germany,0.376113891602
+13801,planetlab1.informatik.uni-erlangen.de,Germany,0.364991903305
+13092,planetlab-1.fhi-fokus.de,Germany,0.372090101242
+13784,mars.planetlab.haw-hamburg.de,Germany,0.375178813934
+13393,onelab-1.fhi-fokus.de,Germany,-1
+13790,chronos.disy.inf.uni-konstanz.de,Germany,0.367354869843
+14064,planetlab2.wiwi.hu-berlin.de,Germany,0.389527082443
+14285,planetvs1.informatik.uni-stuttgart.de,Germany,0.363926887512
+13604,planetlab2.informatik.uni-wuerzburg.de,Germany,0.362412929535
+13797,planet2.zib.de,Germany,-1
+13799,planetlab3.informatik.uni-erlangen.de,Germany,-1
+13987,pl1.uni-rostock.de,Germany,0.378268003464
+13785,merkur.planetlab.haw-hamburg.de,Germany,0.382102012634
+14401,planetlab1.imp.fu-berlin.de,Germany,0.37341594696
+14414,planetlab2.imp.fu-berlin.de,Germany,0.373817920685
+14175,dfn-ple1.x-win.dfn.de,Germany,0.36646604538
+14151,planet02.hhi.fraunhofer.de,Germany,-1
+13811,planet2.inf.tu-dresden.de,Germany,-1
+13906,planetlab2.exp-math.uni-essen.de,Germany,0.366445064545
+14063,planetlab1.wiwi.hu-berlin.de,Germany,-1
+13605,planetlab1.informatik.uni-wuerzburg.de,Germany,0.363763093948
+13798,planet1.zib.de,Germany,0.378312110901
+13810,aladdin.planetlab.extranet.uni-passau.de,Germany,0.369772911072
+13988,pl2.uni-rostock.de,Germany,0.378079891205
+14120,planetlab2.diku.dk,Denmark,0.35134100914
+14119,planetlab1.diku.dk,Denmark,0.351713895798
+14038,planetlab1.cti.espol.edu.ec,Ecuador,0.36813211441
+14039,planetlab2.cti.espol.edu.ec,Ecuador,0.342926025391
+10647,planetlab5.cs.duke.edu,United States Education site,-1
+10482,planetlab-1.vuse.vanderbilt.edu,United States Education site,-1
+10006,planetlab1.engr.ccny.cuny.edu,United States Education site,-1
+3389,itchy.cs.uga.edu,United States Education site,-1
+3390,scratchy.cs.uga.edu,United States Education site,-1
+10024,planetlab2.engr.ccny.cuny.edu,United States Education site,-1
+364,planetlab0.ias.csusb.edu,United States Education site,-1
+10454,planetlab2.cse.msu.edu,United States Education site,-1
+13414,node0.planetlab.etl.luc.edu,United States Education site,-1
+10189,planetlab1.cs.wayne.edu,United States Education site,-1
+184,planetlab2.cse.nd.edu,United States Education site,-1
+13276,charon.cs.binghamton.edu,United States Education site,-1
+10483,planetlab-2.vuse.vanderbilt.edu,United States Education site,-1
+13415,node1.planetlab.etl.luc.edu,United States Education site,-1
+47,planetlab2.cs.duke.edu,United States Education site,-1
+13274,pl2.cewit.stonybrook.edu,United States Education site,-1
+13273,pl1.cewit.stonybrook.edu,United States Education site,-1
+13275,pluto.cs.binghamton.edu,United States Education site,-1
+10390,planetlab2.csee.usf.edu,United States Education site,0.270900964737
+13405,planetlab1.csuohio.edu,United States Education site,0.26559305191
+11484,planetlab-4.eecs.cwru.edu,United States Education site,0.261373996735
+10172,planetlab1.acis.ufl.edu,United States Education site,0.512166976929
+11084,planetlab4.wail.wisc.edu,United States Education site,0.479672908783
+3221,planetlab7.millennium.berkeley.edu,United States Education site,0.263195991516
+12,pl2.eecs.utk.edu,United States Education site,0.260106801987
+10173,planetlab2.acis.ufl.edu,United States Education site,0.264771938324
+14264,aguila2.lsi.upc.edu,United States Education site,0.381664991379
+13644,planetlab1.cs.uml.edu,United States Education site,0.265445947647
+10118,planetlab2.georgetown.edu,United States Education site,-1
+8314,planetx.scs.cs.nyu.edu,United States Education site,-1
+14263,aguila1.lsi.upc.edu,United States Education site,0.385152816772
+13538,planetlab6.csee.usf.edu,United States Education site,0.264142990112
+10381,planet-lab1.cs.ucr.edu,United States Education site,-1
+11078,planetlab4.eecs.umich.edu,United States Education site,-1
+10912,earth.cs.brown.edu,United States Education site,-1
+10175,planetlab1.cs.pitt.edu,United States Education site,0.257874011993
+13212,roam2.cs.ou.edu,United States Education site,-1
+10534,kc-sce-plab2.umkc.edu,United States Education site,0.245449066162
+40,planetlab-1.cmcl.cs.cmu.edu,United States Education site,0.25722694397
+13563,planetlab7.csres.utexas.edu,United States Education site,-1
+107,planetlab2.cs.uiuc.edu,United States Education site,0.247649908066
+361,planetlab5.csail.mit.edu,United States Education site,-1
+108,planetlab1.cs.uiuc.edu,United States Education site,0.24796295166
+90,planetlab1.eecs.umich.edu,United States Education site,0.263677120209
+2,planet1.scs.cs.nyu.edu,United States Education site,-1
+20,planetlab2.cs.umass.edu,United States Education site,-1
+14452,newbootcd.cs.princeton.edu,United States Education site,-1
+87,ricepl-2.cs.rice.edu,United States Education site,0.231709957123
+91,planetlab2.eecs.umich.edu,United States Education site,-1
+10529,kc-sce-plab1.umkc.edu,United States Education site,-1
+93,kupl2.ittc.ku.edu,United States Education site,0.23818898201
+13762,of-planet5.stanford.edu,United States Education site,-1
+10110,planetlab2.een.orst.edu,United States Education site,-1
+10111,planetlab1.een.orst.edu,United States Education site,-1
+10125,planetlab-1.ece.iastate.edu,United States Education site,-1
+29,planetlab3.cs.uchicago.edu,United States Education site,-1
+8181,planetlab3.millennium.berkeley.edu,United States Education site,-1
+10646,planetlab4.cs.duke.edu,United States Education site,-1
+41,planetlab-2.cmcl.cs.cmu.edu,United States Education site,0.259435176849
+85,planetlab2.cis.upenn.edu,United States Education site,0.283209085464
+73,planetlab1.netlab.uky.edu,United States Education site,0.272248029709
+14478,planetlab3.georgetown.edu,United States Education site,0.250353813171
+14167,pl3.cs.unm.edu,United States Education site,0.221733808517
+13755,pl1.cis.uab.edu,United States Education site,-1
+14520,pl221nassau0.cs.princeton.edu,United States Education site,-1
+10726,planetlab2.citadel.edu,United States Education site,0.257573843002
+14514,pl1.cs.unm.edu,United States Education site,0.221457004547
+55,planetlab2.csres.utexas.edu,United States Education site,-1
+11022,planetlab1.cs.umb.edu,United States Education site,-1
+11023,planetlab2.cs.umb.edu,United States Education site,-1
+45,planet2.scs.stanford.edu,United States Education site,-1
+50,planetlab3.csail.mit.edu,United States Education site,-1
+10432,planetlab1.cse.msu.edu,United States Education site,-1
+11024,planetlab4.csres.utexas.edu,United States Education site,-1
+79,planetlab1.csres.utexas.edu,United States Education site,-1
+8224,planetlab1.eecs.northwestern.edu,United States Education site,-1
+10710,planetlab2.eas.asu.edu,United States Education site,-1
+80,planetlab3.csres.utexas.edu,United States Education site,-1
+10711,planetlab1.eas.asu.edu,United States Education site,-1
+4,planet1.scs.stanford.edu,United States Education site,-1
+13481,planetlab6.cs.duke.edu,United States Education site,-1
+11072,node2.planetlab.mathcs.emory.edu,United States Education site,-1
+8226,planetlab2.eecs.northwestern.edu,United States Education site,0.24546790123
+14168,pl4.cs.unm.edu,United States Education site,0.221307992935
+11059,planetlab4.williams.edu,United States Education site,0.258922815323
+13562,planetlab6.csres.utexas.edu,United States Education site,-1
+13116,vn5.cse.wustl.edu,United States Education site,0.250186920166
+10581,plab2.engr.sjsu.edu,United States Education site,-1
+11514,planetlab-5.ece.iastate.edu,United States Education site,-1
+13736,planetlabpc1.upf.edu,United States Education site,-1
+225,planetlab2.tamu.edu,United States Education site,-1
+13487,planetlab5.eecs.umich.edu,United States Education site,0.245451927185
+13786,planetlab1.tsuniv.edu,United States Education site,0.268676996231
+39,planetlab2.cs.cornell.edu,United States Education site,-1
+13430,planetlab3.cs.uoregon.edu,United States Education site,0.217032909393
+13851,planetlab4.tamu.edu,United States Education site,0.240401029587
+13429,planetlab2.cs.uoregon.edu,United States Education site,0.218111991882
+13850,planetlab3.tamu.edu,United States Education site,0.240240812302
+13758,planet2.cs.rochester.edu,United States Education site,0.258184909821
+10544,planetlab1.ucsd.edu,United States Education site,0.19939494133
+13565,ricepl-4.cs.rice.edu,United States Education site,0.231381177902
+10883,planetlab01.sys.virginia.edu,United States Education site,0.267266988754
+13621,plgmu5.ite.gmu.edu,United States Education site,-1
+10484,planetlab1.eecs.wsu.edu,United States Education site,0.229620933533
+14166,pl2.cs.unm.edu,United States Education site,0.221858978271
+11489,pl2.planet.cs.kent.edu,United States Education site,-1
+11488,pl1.planet.cs.kent.edu,United States Education site,-1
+10932,planetlab2.cs.unc.edu,United States Education site,0.265417098999
+13489,ebb.colgate.edu,United States Education site,-1
+36,planetlab03.cs.washington.edu,United States Education site,0.218902111053
+13400,planetlab2.csuohio.edu,United States Education site,-1
+10910,jupiter.cs.brown.edu,United States Education site,-1
+10841,planetlab1.eecs.ucf.edu,United States Education site,-1
+13293,planetlab-01.cs.princeton.edu,United States Education site,0.27574801445
+10093,planetlab1.mnlab.cti.depaul.edu,United States Education site,-1
+10859,planetlab2.williams.edu,United States Education site,0.257574796677
+11403,planetlab1.cs.ucla.edu,United States Education site,0.189425945282
+13431,planetlab1.cs.uoregon.edu,United States Education site,0.219193935394
+13211,roam1.cs.ou.edu,United States Education site,0.246232032776
+10157,planetlab1.engr.uconn.edu,United States Education site,0.267191886902
+13625,planet5.cs.ucsb.edu,United States Education site,-1
+11057,node1.planetlab.mathcs.emory.edu,United States Education site,0.243677854538
+13668,planetlab4.rutgers.edu,United States Education site,0.270339012146
+11039,planetlab5.csres.utexas.edu,United States Education site,-1
+11075,planetlab7.flux.utah.edu,United States Education site,-1
+10911,pluto.cs.brown.edu,United States Education site,0.27112197876
+11,pl1.eecs.utk.edu,United States Education site,0.259743928909
+13767,planetlab2.cnis.nyit.edu,United States Education site,0.276520967484
+13747,pl2.cs.yale.edu,United States Education site,0.263439893723
+11383,planet4.cs.ucsb.edu,United States Education site,0.191488027573
+14272,planetlab1.unr.edu,United States Education site,0.203516960144
+14273,planetlab2.unr.edu,United States Education site,0.203735113144
+14121,planetlab1.temple.edu,United States Education site,0.259456157684
+11510,planetlab2.uta.edu,United States Education site,0.229820013046
+11404,planetlab2.cs.ucla.edu,United States Education site,0.197214841843
+13748,pl1.cs.yale.edu,United States Education site,0.269828081131
+10254,plgmu2.ite.gmu.edu,United States Education site,0.255658149719
+10236,planetlab1.rutgers.edu,United States Education site,0.26487493515
+13422,metis.mcs.suffolk.edu,United States Education site,-1
+3216,planetlab5.millennium.berkeley.edu,United States Education site,0.19873213768
+13295,planetlab-03.cs.princeton.edu,United States Education site,0.267339944839
+19,planetlab1.cs.umass.edu,United States Education site,0.26336312294
+10330,planetlab2.byu.edu,United States Education site,-1
+10545,planetlab2.ucsd.edu,United States Education site,0.200187206268
+13638,planetlab2.cs.du.edu,United States Education site,0.254496097565
+185,planetlab1.cse.nd.edu,United States Education site,-1
+360,planetlab6.csail.mit.edu,United States Education site,-1
+13428,planetlab4.cs.uoregon.edu,United States Education site,0.21892285347
+10842,planetlab2.eecs.ucf.edu,United States Education site,-1
+14357,planetlabpc0.upf.edu,United States Education site,-1
+11106,plab3.eece.ksu.edu,United States Education site,-1
+3224,planetlab9.millennium.berkeley.edu,United States Education site,-1
+10860,planetlab3.williams.edu,United States Education site,0.278928995132
+10165,planetlab-4.ece.iastate.edu,United States Education site,-1
+11487,planetlab4.cnds.jhu.edu,United States Education site,0.257642030716
+10267,planetlab-1.cs.colostate.edu,United States Education site,-1
+13677,planetlab1.jhu.edu,United States Education site,-1
+10326,planetlab01.uncc.edu,United States Education site,-1
+13792,planetlab2.tsuniv.edu,United States Education site,0.275536060333
+10329,planetlab1.byu.edu,United States Education site,-1
+13410,planetlab-2.cs.uic.edu,United States Education site,0.254539012909
+3225,planetlab8.millennium.berkeley.edu,United States Education site,-1
+13125,mtuplanetlab2.cs.mtu.edu,United States Education site,0.250398159027
+10195,plgmu1.ite.gmu.edu,United States Education site,0.257030010223
+3217,planetlab13.millennium.berkeley.edu,United States Education site,-1
+10203,planetlab2.rutgers.edu,United States Education site,0.264929056168
+8185,planetlab2.mnlab.cti.depaul.edu,United States Education site,-1
+14169,pl1.cs.montana.edu,United States Education site,0.23290681839
+8227,planetlab1.poly.edu,United States Education site,-1
+13529,planetlab5.csee.usf.edu,United States Education site,0.264870166779
+10918,planetlabone.ccs.neu.edu,United States Education site,0.261826038361
+13231,osiris.planetlab.cs.umd.edu,United States Education site,0.256828069687
+10546,planetlab3.ucsd.edu,United States Education site,0.198810815811
+13667,planetlab3.rutgers.edu,United States Education site,0.266232967377
+34,planetlab01.cs.washington.edu,United States Education site,-1
+3215,planetlab12.millennium.berkeley.edu,United States Education site,0.198728084564
+165,planetlab2.cnds.jhu.edu,United States Education site,0.257792949677
+10163,planetlab-3.ece.iastate.edu,United States Education site,-1
+13761,pl2.cis.uab.edu,United States Education site,-1
+164,planetlab1.cnds.jhu.edu,United States Education site,0.256793022156
+13296,planetlab-04.cs.princeton.edu,United States Education site,0.273964881897
+10353,planetlab2.engr.uconn.edu,United States Education site,-1
+3222,planetlab10.millennium.berkeley.edu,United States Education site,0.198623180389
+11088,planetlab2.unl.edu,United States Education site,0.261224031448
+363,planetlab4.csail.mit.edu,United States Education site,-1
+13204,node1.planetlab.albany.edu,United States Education site,-1
+10944,mtuplanetlab1.cs.mtu.edu,United States Education site,0.249231100082
+74,planetlab2.netlab.uky.edu,United States Education site,0.280339956284
+10525,planetlab04.cs.washington.edu,United States Education site,-1
+67,planetlab1.cs.cornell.edu,United States Education site,-1
+14100,planetlab1.cs.okstate.edu,United States Education site,0.243412017822
+362,planetlab7.csail.mit.edu,United States Education site,-1
+224,planetlab1.tamu.edu,United States Education site,-1
+11490,pl3.planet.cs.kent.edu,United States Education site,-1
+10117,planetlab1.georgetown.edu,United States Education site,-1
+10428,planetlab-01.ece.uprm.edu,United States Education site,-1
+10884,planetlab02.sys.virginia.edu,United States Education site,0.268341064453
+10126,planetlab-2.ece.iastate.edu,United States Education site,-1
+94,planetlab1.cs.columbia.edu,United States Education site,0.259813070297
+10112,planetlab1.cs.colorado.edu,United States Education site,0.267771959305
+10648,planetlab5.cs.cornell.edu,United States Education site,-1
+10919,planetlabtwo.ccs.neu.edu,United States Education site,0.261651039124
+10803,planetlab-01.bu.edu,United States Education site,0.258848905563
+3223,planetlab11.millennium.berkeley.edu,United States Education site,0.198760032654
+13626,planet6.cs.ucsb.edu,United States Education site,-1
+42,planetlab-3.cmcl.cs.cmu.edu,United States Education site,0.262871026993
+10815,planetlab-02.bu.edu,United States Education site,0.259656906128
+10431,planetlab4.cs.uiuc.edu,United States Education site,-1
+96,planetlab3.cs.columbia.edu,United States Education site,0.265961170197
+13409,planetlab-1.cs.uic.edu,United States Education site,0.253738880157
+35,planetlab02.cs.washington.edu,United States Education site,0.218034029007
+10382,planet-lab2.cs.ucr.edu,United States Education site,-1
+11087,planetlab1.unl.edu,United States Education site,0.261765003204
+95,planetlab2.cs.columbia.edu,United States Education site,0.265763044357
+13232,whitefall.planetlab.cs.umd.edu,United States Education site,0.256676912308
+10176,planetlab2.cs.pitt.edu,United States Education site,-1
+10485,planetlab2.eecs.wsu.edu,United States Education site,0.229913949966
+11015,pl2.ucs.indiana.edu,United States Education site,0.249962091446
+11485,planetlab-5.eecs.cwru.edu,United States Education site,0.26491689682
+92,kupl1.ittc.ku.edu,United States Education site,-1
+8182,planetlab1.millennium.berkeley.edu,United States Education site,0.198840141296
+10649,planetlab6.cs.cornell.edu,United States Education site,-1
+8183,planetlab2.millennium.berkeley.edu,United States Education site,0.198987007141
+11486,planetlab3.cnds.jhu.edu,United States Education site,0.255307912827
+11065,planetslug5.cse.ucsc.edu,United States Education site,0.199244976044
+13423,adrastea.mcs.suffolk.edu,United States Education site,-1
+13486,planet11.csc.ncsu.edu,United States Education site,-1
+11462,vn4.cse.wustl.edu,United States Education site,0.249129056931
+10096,planetlab1.cs.unc.edu,United States Education site,0.265395879745
+11048,planetlab3.eecs.northwestern.edu,United States Education site,0.243186950684
+11074,planetlab6.flux.utah.edu,United States Education site,-1
+13678,planetlab2.jhu.edu,United States Education site,-1
+11077,planetlab3.eecs.umich.edu,United States Education site,0.246385812759
+159,planetlab1.cs.purdue.edu,United States Education site,0.246353149414
+11101,plab4.eece.ksu.edu,United States Education site,-1
+13524,planetlab2.cs.colorado.edu,United States Education site,0.237962961197
+11060,planetlab5.williams.edu,United States Education site,-1
+78,righthand.eecs.harvard.edu,United States Education site,0.261957883835
+13264,dplanet2.uoc.edu,United States Education site,-1
+10977,planetlab16.millennium.berkeley.edu,United States Education site,0.19881105423
+11042,planetlab4.csee.usf.edu,United States Education site,0.265431880951
+13615,nodeb.howard.edu,United States Education site,-1
+10395,planetlab-1.cse.ohio-state.edu,United States Education site,0.298686981201
+13493,planetlab5.cs.uiuc.edu,United States Education site,-1
+13483,planetlab7.cs.duke.edu,United States Education site,-1
+10418,planetlab1.utep.edu,United States Education site,-1
+13652,planetlab2.clemson.edu,United States Education site,0.257681846619
+13654,planetlab1.clemson.edu,United States Education site,0.25878405571
+14101,planetlab2.cs.okstate.edu,United States Education site,0.248378038406
+84,planetlab1.cis.upenn.edu,United States Education site,0.289201021194
+13923,planetlab1.umassd.edu,United States Education site,-1
+14170,pl2.cs.montana.edu,United States Education site,0.232673883438
+13766,planetlab1.cnis.nyit.edu,United States Education site,0.276156187057
+10522,planetlab1.uta.edu,United States Education site,0.2263879776
+13586,miranda.planetlab.cs.umd.edu,United States Education site,0.257372140884
+13265,dplanet1.uoc.edu,United States Education site,0.397165060043
+11070,planetlab3.cse.nd.edu,United States Education site,-1
+11494,planetlab-6.ece.iastate.edu,United States Education site,-1
+13643,planetlab2.cs.uml.edu,United States Education site,0.265564203262
+13488,planet12.csc.ncsu.edu,United States Education site,-1
+13613,nodea.howard.edu,United States Education site,-1
+3395,planet1.cs.rochester.edu,United States Education site,0.258688926697
+11083,planetlab3.wail.wisc.edu,United States Education site,0.260974884033
+11064,planetslug4.cse.ucsc.edu,United States Education site,0.199679851532
+8284,planetlab2.poly.edu,United States Education site,-1
+11091,planetlab2.utdallas.edu,United States Education site,-1
+10396,planetlab-2.cse.ohio-state.edu,United States Education site,0.260675907135
+11504,plgmu3.ite.gmu.edu,United States Education site,-1
+13520,planetslug7.cse.ucsc.edu,United States Education site,-1
+11014,pl1.ucs.indiana.edu,United States Education site,-1
+77,lefthand.eecs.harvard.edu,United States Education site,0.261520862579
+11505,plgmu4.ite.gmu.edu,United States Education site,-1
+10268,planetlab-2.cs.colostate.edu,United States Education site,0.255742073059
+11090,planetlab1.utdallas.edu,United States Education site,-1
+10425,salt.planetlab.cs.umd.edu,United States Education site,0.256824970245
+10378,orbpl1.rutgers.edu,United States Education site,-1
+11011,planetlab3.csee.usf.edu,United States Education site,0.264611005783
+160,planetlab2.cs.purdue.edu,United States Education site,0.252346038818
+10429,planetlab-02.ece.uprm.edu,United States Education site,-1
+10379,orbpl2.rutgers.edu,United States Education site,-1
+10580,plab1.engr.sjsu.edu,United States Education site,-1
+13494,planetlab6.cs.uiuc.edu,United States Education site,-1
+11071,planetlab4.cse.nd.edu,United States Education site,-1
+10383,planetlab1.csee.usf.edu,United States Education site,0.265013933182
+10725,planetlab1.citadel.edu,United States Education site,0.264005899429
+11382,planet3.cs.ucsb.edu,United States Education site,0.191664934158
+10419,planetlab2.utep.edu,United States Education site,-1
+13637,planetlab1.cs.du.edu,United States Education site,0.255409002304
+7,ricepl-1.cs.rice.edu,United States Education site,-1
+13383,planetlab2.nileu.edu.eg,Egypt,-1
+13387,planetlab1.nileu.edu.eg,Egypt,-1
+13921,planetlab2.dit.upm.es,Spain,0.382392168045
+13918,planetlab1.dit.upm.es,Spain,0.370671033859
+14143,planetlab1.upc.es,Spain,0.395128965378
+14145,planetlab3.upc.es,Spain,0.392129898071
+13849,planetlab1.tlm.unavarra.es,Spain,0.400038957596
+13848,planetlab2.tlm.unavarra.es,Spain,0.399062156677
+14269,planetlab1.um.es,Spain,0.393213033676
+14270,planetlab2.um.es,Spain,0.394802093506
+13159,ops.ii.uam.es,Spain,0.368166923523
+13153,utet.ii.uam.es,Spain,0.368120908737
+14144,planetlab2.upc.es,Spain,0.382056951523
+14439,pl1.tailab.eu,European,0.340435028076
+14440,pl2.tailab.eu,European,0.342006921768
+13055,node2pl.planet-lab.telecom-lille1.eu,European,-1
+13187,planetlab-node1.it-sudparis.eu,European,0.335083007812
+13311,planetlab-node3.it-sudparis.eu,European,0.331993103027
+13122,node1pl.planet-lab.telecom-lille1.eu,European,-1
+13936,planetlab4.hiit.fi,Finland,0.369761943817
+13916,planetlab3.hiit.fi,Finland,0.367131948471
+13939,planetlab-1.research.netlab.hut.fi,Finland,0.373185157776
+13616,planetlab1.rd.tut.fi,Finland,-1
+13617,planetlab2.rd.tut.fi,Finland,0.379856824875
+13940,planetlab-2.research.netlab.hut.fi,Finland,0.372684955597
+14267,planetlab1.virtues.fi,Finland,0.373940229416
+14268,planetlab2.virtues.fi,Finland,0.368347883224
+14204,planetlab1.hiit.fi,Finland,-1
+14205,planetlab2.hiit.fi,Finland,-1
+13648,peeramide.irisa.fr,France,-1
+13173,planetlab-1.imag.fr,France,-1
+13094,planetlab1lannion.elibel.tm.fr,France,-1
+13901,planetlab2.eurecom.fr,France,0.355440139771
+14097,lim-planetlab-1.univ-reunion.fr,France,-1
+13663,inriarennes2.irisa.fr,France,0.336633205414
+13095,planetlab2lannion.elibel.tm.fr,France,-1
+13143,planetlab2.utt.fr,France,0.34238409996
+14065,planetlab1.u-strasbg.fr,France,0.360920190811
+14066,planetlab2.u-strasbg.fr,France,0.360208034515
+14069,pl1.bell-labs.fr,France,0.334048986435
+14070,pl2.bell-labs.fr,France,0.334096908569
+13090,host3-plb.loria.fr,France,0.334328889847
+13897,planetlab1.eurecom.fr,France,0.3510389328
+13662,inriarennes1.irisa.fr,France,0.335949897766
+13081,host4-plb.loria.fr,France,0.335124969482
+14416,empusa.ipv6.lip6.fr,France,0.331212997437
+14417,ampelos.ipv6.lip6.fr,France,0.335517883301
+14418,sybaris.ipv6.lip6.fr,France,0.33114695549
+14419,plewifi.ipv6.lip6.fr,France,0.33232998848
+14420,ple6.ipv6.lip6.fr,France,0.340346813202
+14422,ple2.ipv6.lip6.fr,France,0.335866928101
+14423,ple3.ipv6.lip6.fr,France,0.331352949142
+14424,ple4.ipv6.lip6.fr,France,0.344182014465
+14425,anateus.ipv6.lip6.fr,France,0.331891059875
+14427,openlab01.pl.sophia.inria.fr,France,-1
+14431,onelab10.pl.sophia.inria.fr,France,0.367703914642
+13144,planetlab1.utt.fr,France,0.343774080276
+13174,planetlab-2.imag.fr,France,-1
+14098,lim-planetlab-2.univ-reunion.fr,France,-1
+13903,planetlab2.ionio.gr,Greece,0.407644033432
+13368,iason.inf.uth.gr,Greece,0.405085086823
+13902,planetlab1.ionio.gr,Greece,0.40415096283
+13862,planetlab4.cslab.ece.ntua.gr,Greece,0.404047966003
+14216,pl001.ece.upatras.gr,Greece,0.401080846786
+14217,pl002.ece.upatras.gr,Greece,0.400007963181
+13934,stella.planetlab.ntua.gr,Greece,0.39711022377
+13552,planetlab2.cs.aueb.gr,Greece,0.400027990341
+14161,zoi.di.uoa.gr,Greece,0.397321939468
+14162,kostis.di.uoa.gr,Greece,0.398126125336
+13863,planetlab2.cs.uoi.gr,Greece,-1
+13933,vicky.planetlab.ntua.gr,Greece,0.396232128143
+13894,planetlab2.ics.forth.gr,Greece,-1
+13369,medea.inf.uth.gr,Greece,0.405582904816
+13844,planetlab1.cs.uoi.gr,Greece,0.405595779419
+13861,planetlab3.cslab.ece.ntua.gr,Greece,0.399750947952
+10656,planetlab4.ie.cuhk.edu.hk,Hong Kong,-1
+10658,planetlab5.ie.cuhk.edu.hk,Hong Kong,-1
+10154,planetlab1.ie.cuhk.edu.hk,Hong Kong,0.339100837708
+8214,plab2.cs.ust.hk,Hong Kong,-1
+10185,planetlab2.ie.cuhk.edu.hk,Hong Kong,0.33277797699
+8207,plab1.cs.ust.hk,Hong Kong,-1
+13942,pl01.comp.polyu.edu.hk,Hong Kong,-1
+14045,pl02.comp.polyu.edu.hk,Hong Kong,-1
+10279,planetlab2.eee.hku.hk,Hong Kong,-1
+10276,planetlab1.eee.hku.hk,Hong Kong,-1
+13977,planetlab1.tmit.bme.hu,Hungary,0.382619142532
+13976,planetlab2.tmit.bme.hu,Hungary,-1
+13113,planet1.elte.hu,Hungary,0.37900686264
+13114,planet2.elte.hu,Hungary,-1
+14248,planetlab-coffee.ait.ie,Ireland,0.355469942093
+13991,planetlab02.cs.tcd.ie,Ireland,-1
+13990,planetlab01.cs.tcd.ie,Ireland,-1
+14249,planetlab-tea.ait.ie,Ireland,0.355674982071
+13891,planetlab-node-01.ucd.ie,Ireland,-1
+13895,planetlab-node-02.ucd.ie,Ireland,-1
+3231,planetlab2.bgu.ac.il,Israel,-1
+13380,planetlab2.tau.ac.il,Israel,0.420125961304
+13995,planetlab2.mta.ac.il,Israel,0.42720913887
+13061,planet2.cs.huji.ac.il,Israel,0.422972202301
+3230,planetlab1.bgu.ac.il,Israel,-1
+13059,planet1.cs.huji.ac.il,Israel,-1
+13193,planetlab1.tau.ac.il,Israel,0.420246124268
+13994,planetlab1.mta.ac.il,Israel,0.424126148224
+10594,plab2.psgtech.ac.in,India,-1
+10100,planetlab2.iitr.ernet.in,India,-1
+10727,pl2.ernet.in,India,-1
+10029,planetlab2.iitb.ac.in,India,-1
+10087,planetlab1.iitb.ac.in,India,-1
+14078,planetlab2.iitkgp.ac.in,India,-1
+14077,planetlab1.iitkgp.ac.in,India,-1
+14398,planetlab1.ru.is,Iceland,-1
+14399,planetlab2.ru.is,Iceland,-1
+13806,planetlab3.di.unito.it,Italy,0.613384962082
+14055,plab-2.diegm.uniud.it,Italy,0.370057106018
+14056,plab-1.diegm.uniud.it,Italy,0.3641269207
+13107,planetlab02.dis.unina.it,Italy,-1
+13080,planetlab2.science.unitn.it,Italy,-1
+13291,planet1.unipr.it,Italy,0.361994981766
+13658,planet-lab-node2.netgroup.uniroma2.it,Italy,0.368232011795
+13446,host149-82-static.93-94-b.business.telecomitalia.it,Italy,-1
+13433,host147-82-static.93-94-b.business.telecomitalia.it,Italy,-1
+13491,planetlab-1.ing.unimo.it,Italy,-1
+13803,planetlab1.di.unito.it,Italy,0.89258813858
+13830,planetlab2.polito.it,Italy,0.378061056137
+13570,onelab7.iet.unipi.it,Italy,-1
+13492,planetlab-2.ing.unimo.it,Italy,0.3609790802
+13292,planet2.unipr.it,Italy,0.360311985016
+13101,gschembra3.diit.unict.it,Italy,0.380363941193
+13804,planetlab2.di.unito.it,Italy,2.11099410057
+13653,planet-lab-node1.netgroup.uniroma2.it,Italy,0.368167877197
+13532,onelab6.iet.unipi.it,Italy,-1
+13079,planetlab1.science.unitn.it,Italy,0.383556127548
+13839,planetlab1.polito.it,Italy,0.377341985703
+13112,gschembra4.diit.unict.it,Italy,0.382244110107
+13077,planetlab01.dis.unina.it,Italy,-1
+13864,planetlab-4.dis.uniroma1.it,Italy,-1
+13381,marie.iet.unipi.it,Italy,-1
+13464,planetlab1.just.edu.jo,Jordan,-1
+13619,planetlab02.just.edu.jo,Jordan,-1
+10609,planetlab-02.kusa.ac.jp,Japan,-1
+10262,planetlab1.iii.u-tokyo.ac.jp,Japan,-1
+10263,planetlab2.iii.u-tokyo.ac.jp,Japan,-1
+10598,planetlab1.dojima.wide.ad.jp,Japan,0.296398162842
+13146,nis-planet2.doshisha.ac.jp,Japan,-1
+10597,planetlab0.dojima.wide.ad.jp,Japan,0.305999994278
+13360,planetlab6.goto.info.waseda.ac.jp,Japan,0.317810058594
+10423,pl1-higashi.ics.es.osaka-u.ac.jp,Japan,0.31622004509
+13342,planetlab4.n.info.eng.osaka-cu.ac.jp,Japan,-1
+13215,planetlab4.goto.info.waseda.ac.jp,Japan,0.319483041763
+10422,pl2-higashi.ics.es.osaka-u.ac.jp,Japan,0.315216064453
+10447,planet1.jaist.ac.jp,Japan,0.320187091827
+13720,planet2.pnl.nitech.ac.jp,Japan,0.317235946655
+13145,nis-planet1.doshisha.ac.jp,Japan,-1
+13719,planet1.pnl.nitech.ac.jp,Japan,0.322420835495
+10608,planetlab-01.kusa.ac.jp,Japan,-1
+10596,planetlab1.otemachi.wide.ad.jp,Japan,0.294538021088
+13545,pl1.sos.info.hiroshima-cu.ac.jp,Japan,0.319391965866
+10506,planetlab2.sfc.wide.ad.jp,Japan,-1
+10446,planet0.jaist.ac.jp,Japan,0.319761037827
+13546,pl2.sos.info.hiroshima-cu.ac.jp,Japan,0.32354092598
+10505,planetlab1.sfc.wide.ad.jp,Japan,-1
+10719,pub1-s.ane.cmc.osaka-u.ac.jp,Japan,0.316777944565
+10720,pub2-s.ane.cmc.osaka-u.ac.jp,Japan,0.312498092651
+13517,mnc2.pusan.ac.kr,South Korea,-1
+331,csplanetlab3.kaist.ac.kr,South Korea,-1
+330,csplanetlab4.kaist.ac.kr,South Korea,-1
+14493,planetlab-1.cau.ac.kr,South Korea,-1
+14492,planetlab-2.cau.ac.kr,South Korea,-1
+13777,arari.snu.ac.kr,South Korea,-1
+10766,pl1snu.koren.kr,South Korea,-1
+13778,recall.snu.ac.kr,South Korea,0.359715938568
+13504,pl2snu.koren.kr,South Korea,-1
+14277,pl2.yonsei.ac.kr,South Korea,-1
+11044,netapp7.cs.kookmin.ac.kr,South Korea,-1
+14276,pl1.yonsei.ac.kr,South Korea,-1
+11043,netapp6.cs.kookmin.ac.kr,South Korea,-1
+10147,planetlab2.aub.edu.lb,Lebanon,-1
+10146,planetlab1.aub.edu.lb,Lebanon,-1
+13944,planetlab0.ucsc.cmb.ac.lk,Sri Lanka,-1
+13774,pl-dccd-02.cua.uam.mx,Mexico,-1
+13772,pl-dccd-01.cua.uam.mx,Mexico,-1
+14451,planetlab2.koganei.itrc.net,United States Internet administrative site,0.288110971451
+14450,planetlab1.koganei.itrc.net,United States Internet administrative site,0.289710998535
+10763,planetlab1-tijuana.lan.redclara.net,United States Internet administrative site,-1
+13655,planetlab2.thlab.net,United States Internet administrative site,0.336943149567
+10759,planetlab1-buenosaires.lan.redclara.net,United States Internet administrative site,-1
+13150,planetlab-2.calpoly-netlab.net,United States Internet administrative site,0.19339299202
+10757,planetlab1-saopaulo.lan.redclara.net,United States Internet administrative site,-1
+10764,planetlab2-tijuana.lan.redclara.net,United States Internet administrative site,-1
+10755,planetlab1-santiago.lan.redclara.net,United States Internet administrative site,-1
+13216,planetlab1.thlab.net,United States Internet administrative site,0.350837230682
+13633,planetlab3.arizona-gigapop.net,United States Internet administrative site,0.235810995102
+11076,planetlab2.arizona-gigapop.net,United States Internet administrative site,0.228315114975
+13149,planetlab-1.calpoly-netlab.net,United States Internet administrative site,0.193331003189
+10758,planetlab2-saopaulo.lan.redclara.net,United States Internet administrative site,-1
+10746,planetlab1.arizona-gigapop.net,United States Internet administrative site,0.228785037994
+10756,planetlab2-santiago.lan.redclara.net,United States Internet administrative site,-1
+14195,pl1.ccsrfi.net,United States Internet administrative site,-1
+14196,pl2.ccsrfi.net,United States Internet administrative site,0.339445114136
+14201,planetlab1.jcp-consult.net,United States Internet administrative site,0.375004053116
+14202,planetlab2.jcp-consult.net,United States Internet administrative site,0.373198032379
+10760,planetlab2-buenosaires.lan.redclara.net,United States Internet administrative site,-1
+8161,planetlab1.ewi.tudelft.nl,Netherlands,0.352542161942
+8162,planetlab2.ewi.tudelft.nl,Netherlands,-1
+13869,planetlab2.cs.vu.nl,Netherlands,0.352014064789
+13868,planetlab1.cs.vu.nl,Netherlands,0.354900836945
+13612,planetlab1.simula.no,unknown,-1
+13889,planetlab1.ifi.uio.no,unknown,0.36415719986
+13890,planetlab2.ifi.uio.no,unknown,0.37108707428
+13883,planetlab2.cs.uit.no,unknown,0.389693975449
+13882,planetlab1.cs.uit.no,unknown,0.381150007248
+13635,planetlab3.canterbury.ac.nz,New Zealand,-1
+13320,planetlab-2.cs.auckland.ac.nz,New Zealand,0.31991481781
+13636,planetlab4.canterbury.ac.nz,New Zealand,-1
+13646,planetlab-n2.wand.net.nz,New Zealand,0.342182159424
+13645,planetlab-n1.wand.net.nz,New Zealand,0.385040044785
+13739,planetlab2.aut.ac.nz,New Zealand,0.363967895508
+13738,planetlab1.aut.ac.nz,New Zealand,0.386061906815
+13319,planetlab-1.cs.auckland.ac.nz,New Zealand,0.319627046585
+13169,planetlab1.cs.otago.ac.nz,New Zealand,0.350256919861
+13623,planetlab1.ecs.vuw.ac.nz,New Zealand,0.324892044067
+13624,planetlab2.ecs.vuw.ac.nz,New Zealand,0.324214935303
+13170,planetlab2.cs.otago.ac.nz,New Zealand,0.37185382843
+10690,planetlab1.homelinux.org,Organization sites,-1
+11104,planetlab3.postel.org,Organization sites,-1
+14221,planet-plc-3.mpi-sws.org,Organization sites,0.368616104126
+3242,planetlab2.ntu.nodes.planet-lab.org,Organization sites,-1
+86,planetlab2.postel.org,Organization sites,-1
+14224,planet-plc-6.mpi-sws.org,Organization sites,-1
+33,planetlab1.postel.org,Organization sites,0.195724964142
+13154,planetlabeu-1.tssg.org,Organization sites,0.361746072769
+13155,planetlabeu-2.tssg.org,Organization sites,0.36189699173
+14054,planetlab2.nakao-lab.org,Organization sites,-1
+14053,planetlab1.nakao-lab.org,Organization sites,-1
+13412,plab1.create-net.org,Organization sites,0.382538080215
+3241,planetlab1.ntu.nodes.planet-lab.org,Organization sites,-1
+13684,ttu2-1.nodes.planet-lab.org,Organization sites,0.234110832214
+13419,plab2.create-net.org,Organization sites,0.385605812073
+11373,planetlab-02.vt.nodes.planet-lab.org,Organization sites,0.273863077164
+14222,planet-plc-4.mpi-sws.org,Organization sites,0.365821123123
+13683,ttu1-1.nodes.planet-lab.org,Organization sites,0.232925891876
+11105,planetlab4.postel.org,Organization sites,0.189942836761
+13507,planetlab-03.vt.nodes.planet-lab.org,Organization sites,0.272750854492
+13508,planetlab-04.vt.nodes.planet-lab.org,Organization sites,0.273712873459
+14219,planet-plc-1.mpi-sws.org,Organization sites,0.365771055222
+14220,planet-plc-2.mpi-sws.org,Organization sites,0.365673065186
+14223,planet-plc-5.mpi-sws.org,Organization sites,0.365684986115
+11372,planetlab-01.vt.nodes.planet-lab.org,Organization sites,0.27392411232
+10823,planetlab01.lums.edu.pk,Pakistan,-1
+10824,planetlab02.lums.edu.pk,Pakistan,-1
+10238,planetlab2.olsztyn.rd.tp.pl,Poland,-1
+10638,planetlab1.nowogrodzka.rd.tp.pl,Poland,-1
+10888,planetlab1.lublin.rd.tp.pl,Poland,-1
+10634,planetlab1.gdansk.rd.tp.pl,Poland,-1
+13461,ple2.tu.koszalin.pl,Poland,0.372937202454
+10635,planetlab2.gdansk.rd.tp.pl,Poland,-1
+10887,planetlab2.lublin.rd.tp.pl,Poland,-1
+13375,plab4.ple.silweb.pl,Poland,0.375298023224
+13371,plab3.ple.silweb.pl,Poland,0.372816085815
+13978,planetlab-1.man.poznan.pl,Poland,0.365017175674
+13522,planetlab1.cyfronet.pl,Poland,-1
+13558,ple2.dmcs.p.lodz.pl,Poland,0.377502918243
+14229,pandora.we.po.opole.pl,Poland,0.370043039322
+13866,planetlab2.ci.pwr.wroc.pl,Poland,0.368311882019
+14060,prata.mimuw.edu.pl,Poland,0.368137121201
+13557,ple1.dmcs.p.lodz.pl,Poland,0.380537033081
+13865,planetlab1.ci.pwr.wroc.pl,Poland,0.370666027069
+14212,onelab4.warsaw.rd.tp.pl,Poland,0.365882158279
+14230,prometeusz.we.po.opole.pl,Poland,0.37001991272
+10700,planetlab4.mini.pw.edu.pl,Poland,0.371211051941
+13056,planetlab1.pjwstk.edu.pl,Poland,0.371111869812
+13963,planetlab-2.man.poznan.pl,Poland,0.366635799408
+13104,onelab3.warsaw.rd.tp.pl,Poland,0.352045059204
+13349,plab2.ple.silweb.pl,Poland,0.373173952103
+14174,planetlab2.mini.pw.edu.pl,Poland,0.370365142822
+14176,onelab2.warsaw.rd.tp.pl,Poland,-1
+10699,planetlab3.mini.pw.edu.pl,Poland,0.371994018555
+14206,onelab1.warsaw.rd.tp.pl,Poland,-1
+10201,planetlab1.warsaw.rd.tp.pl,Poland,-1
+14059,roti.mimuw.edu.pl,Poland,0.37006187439
+14173,planetlab1.mini.pw.edu.pl,Poland,0.370141029358
+13681,planetlab-um00.di.uminho.pt,Portugal,0.401929855347
+13877,planetlab2.fct.ualg.pt,Portugal,0.40237903595
+14132,planetlab-3.iscte.pt,Portugal,0.396166086197
+13222,planet2.servers.ua.pt,Portugal,0.401379108429
+13357,planet1.servers.ua.pt,Portugal,0.401882171631
+13800,planetlab-1.iscte.pt,Portugal,-1
+13867,planetlab1.fct.ualg.pt,Portugal,0.402815103531
+13831,planetlab-1.tagus.ist.utl.pt,Portugal,0.397257089615
+13915,planetlab-2.di.fc.ul.pt,Portugal,0.399042844772
+13682,planetlab-um10.di.uminho.pt,Portugal,0.400884151459
+13914,planetlab-1.di.fc.ul.pt,Portugal,0.395915031433
+14190,planetlab-4.iscte.pt,Portugal,0.396713018417
+13840,planetlab-2.tagus.ist.utl.pt,Portugal,0.398952960968
+13561,planetlab2.upm.ro,Romania,-1
+13560,planetlab1.upm.ro,Romania,0.398707151413
+10864,pllab1.kamgu.ru,Russian Federation,-1
+10865,pllab2.kamgu.ru,Russian Federation,-1
+10169,planet-lab.iki.rssi.ru,Russian Federation,-1
+10793,plab-2.sinp.msu.ru,Russian Federation,-1
+14075,plab1.cs.msu.ru,Russian Federation,0.396488904953
+14076,plab3.cs.msu.ru,Russian Federation,0.39825296402
+10792,plab-1.sinp.msu.ru,Russian Federation,-1
+13880,planetlab1.sics.se,Sweden,0.361686944962
+13106,planetlab2.s3.kth.se,Sweden,0.366006851196
+10222,planetlab-2.ssvl.kth.se,Sweden,0.361943006516
+13078,planetlab1.s3.kth.se,Sweden,0.365337133408
+14171,planetlab-1.ida.liu.se,Sweden,0.364213943481
+14172,planetlab-2.ida.liu.se,Sweden,0.364233016968
+13888,planetlab2.sics.se,Sweden,0.363042116165
+10208,planetlab-1.ssvl.kth.se,Sweden,0.361452817917
+10601,planetlab3.singaren.net.sg,Singapore,-1
+10905,planetlab2.comp.nus.edu.sg,Singapore,0.359025001526
+13343,planetlab4.singaren.net.sg,Singapore,-1
+10599,planetlab1.singaren.net.sg,Singapore,-1
+11089,planetlab3.comp.nus.edu.sg,Singapore,0.357455015182
+13581,pnode2.pdcc-ntu.singaren.net.sg,Singapore,-1
+13587,pnode1.pdcc-ntu.singaren.net.sg,Singapore,-1
+10904,planetlab1.comp.nus.edu.sg,Singapore,0.483231782913
+10600,planetlab2.singaren.net.sg,Singapore,-1
+14154,planetlab-13.e5.ijs.si,Slovenia,0.362476110458
+14153,planetlab-12.e5.ijs.si,Slovenia,-1
+13856,planetlab1.fri.uni-lj.si,Slovenia,-1
+13853,planetlab2.fri.uni-lj.si,Slovenia,-1
+13356,ple2.ait.ac.th,Thailand,0.388753175735
+13355,ple1.ait.ac.th,Thailand,0.387799978256
+13502,planetlab1.plab.ege.edu.tr,Turkey,-1
+10999,planet1.ku.edu.tr,Turkey,0.40952706337
+11000,planet2.ku.edu.tr,Turkey,0.407752037048
+11005,planetlab2.csie.nuk.edu.tw,Taiwan,0.337777137756
+13647,nw142.csie.ncu.edu.tw,Taiwan,-1
+151,planetlab2.iis.sinica.edu.tw,Taiwan,-1
+150,planetlab1.iis.sinica.edu.tw,Taiwan,-1
+14386,cs743.cs.nthu.edu.tw,Taiwan,0.320900917053
+14387,cs744.cs.nthu.edu.tw,Taiwan,0.327070951462
+11004,planetlab1.csie.nuk.edu.tw,Taiwan,0.337790966034
+13416,planetlab-1.webedu.ccu.edu.tw,Taiwan,-1
+13417,planetlab-2.webedu.ccu.edu.tw,Taiwan,-1
+13674,planetlab1.xeno.cl.cam.ac.uk,United Kingdom,0.333576917648
+13179,planetlab1.cs.ucl.ac.uk,United Kingdom,-1
+13912,uoepl1.essex.ac.uk,United Kingdom,-1
+13954,planetlab4.cs.st-andrews.ac.uk,United Kingdom,-1
+13879,planetlab-4.imperial.ac.uk,United Kingdom,0.329035997391
+13846,planetlab-3.imperial.ac.uk,United Kingdom,0.330333948135
+13953,planetlab3.cs.st-andrews.ac.uk,United Kingdom,0.347752094269
+13878,planetlab-2.imperial.ac.uk,United Kingdom,0.333221197128
+13769,planetlab2.xeno.cl.cam.ac.uk,United Kingdom,0.345281124115
+13770,planetlab3.xeno.cl.cam.ac.uk,United Kingdom,0.334649085999
+14293,planetlab1.nrl.eecs.qmul.ac.uk,United Kingdom,0.32994890213
+14295,planetlab2.nrl.eecs.qmul.ac.uk,United Kingdom,0.332108974457
+13913,uoepl2.essex.ac.uk,United Kingdom,-1
+13180,planetlab2.cs.ucl.ac.uk,United Kingdom,0.335442066193
+13845,planetlab-1.imperial.ac.uk,United Kingdom,-1
+83,planet1.cc.gt.atl.ga.us,United States,-1
+10590,planet3.cc.gt.atl.ga.us,United States,0.250869989395
+10589,planet2.cc.gt.atl.ga.us,United States,0.250824928284
+10591,planet4.cc.gt.atl.ga.us,United States,0.254708051682
+10632,fobos.cecalc.ula.ve,Venezuela,-1
